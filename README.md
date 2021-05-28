@@ -48,14 +48,23 @@ Clasa are urmatoarele proprietati:
 1.Package : compulsory.TestClass
 2.Variabile: 
 static int compulsory.TestClass.TestClasses.variabila_statica
+java.util.List compulsory.TestClass.TestClasses.text
 3.Constructori: 
 public compulsory.TestClass.TestClasses()
 4.Metode: 
-public static void compulsory.TestClass.TestClasses.test1()
+public static void compulsory.TestClass.TestClasses.test3(int)
 public static void compulsory.TestClass.TestClasses.test2(int)
 
 
 INVOKE
-test1
-Apel test1
+-----INVOKE2-----
+test3
+Apel test 3 - cu parametri
+test2
+Apel test 2 - fara parametri
+-----EXPLORE-----
+
+
+Process finished with exit code 0
+
 ```# Java_Lab12_Optional
