@@ -30,7 +30,7 @@ Using reflection, invoke the static methods, with no arguments, annotated with @
 
 ## Solved tasks
 
-As of today (24.05.2021), we have solved all tasks regarding the compulsory part.
+As of today (28.05.2021), we have solved tasks regarding the optional part.
 
 ## Build and run
 
