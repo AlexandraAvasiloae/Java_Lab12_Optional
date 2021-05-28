@@ -1,7 +1,7 @@
-package compulsory.TestClass;
+package optional.TestClass;
 
 
-import compulsory.Test;
+import optional.Test;
 
 import java.util.List;
 
